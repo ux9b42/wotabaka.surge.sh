@@ -1,0 +1,202 @@
+[
+  {
+    "aspek": "Pengambilan Keputusan",
+    "Te": "Membuat keputusan dengan cepat berdasarkan data eksternal, efisiensi, dan aturan yang ditetapkan. (misal, Memilih restoran dengan rating tertinggi dan layanan paling efisien.)",
+    "Ti": "Membutuhkan waktu untuk menganalisis dan menginternalisasi informasi sebelum mengambil keputusan berdasarkan logika dan konsistensi pribadi. (misalnya, Meneliti berbagai restoran, membandingkan menu dan ulasan sebelum memilih salah satu yang sesuai dengan preferensi spesifik saya.)"
+  },
+  {
+    "aspek": "Penyelesaian masalah",
+    "Te": "Berfokus pada solusi praktis dan hasil langsung, sering kali mendelegasikan tugas dan memanfaatkan sumber daya yang tersedia. (misalnya, bila mobil mogok, segera hubungi truk derek dan mekanik.)",
+    "Ti": "Menganalisis masalah dari berbagai sudut, berusaha memahami akar permasalahan sebelum menerapkan solusi berdasarkan pemahaman saya sendiri terhadap sistem. (misalnya, Mencoba mendiagnosis sendiri masalah mobil sebelum mencari bantuan dari luar.)"
+  },
+  {
+    "aspek": "Komunikasi",
+    "Te": "Berkomunikasi secara langsung dan tegas, fokus pada fakta obyektif dan instruksi yang jelas. (misalnya, Memberikan presentasi ringkas dengan tujuan dan langkah tindakan yang jelas.)",
+    "Ti": "Menjelaskan berbagai hal dengan cara yang lebih rinci dan bernuansa, dengan fokus pada logika internal dan memastikan pemahaman tentang prinsip-prinsip yang mendasarinya. (misalnya, Terlibat dalam diskusi mendalam, mengeksplorasi berbagai perspektif dan implikasi teoritis.)"
+  },
+  {
+    "aspek": "Organisasi",
+    "Te": "Menerapkan sistem dan struktur eksternal untuk efisiensi dan produktivitas. (misalnya, Menggunakan perencana, daftar tugas, dan aplikasi organisasi.)",
+    "Ti": "Mengembangkan kerangka internal dan model mental untuk mengatur informasi dan ide. (misalnya, Membuat sistem kategorisasi dan prioritas pribadi.)"
+  },
+  {
+    "aspek": "Pembelajaran",
+    "Te": "Belajar paling baik melalui pengalaman langsung dan penerapan pengetahuan praktis. (misalnya, Menikmati lokakarya dan simulasi di mana saya dapat berpartisipasi secara aktif.)",
+    "Ti": "Lebih suka belajar melalui studi mandiri dan refleksi, menggali jauh ke dalam konsep teoretis dan menganalisis informasi. (misalnya, Membaca topik secara ekstensif, mencatat, dan menghubungkan berbagai ide.)"
+  },
+  {
+    "aspek": "Gaya Kerja",
+    "Te": "Berkembang dalam lingkungan terstruktur dengan tujuan dan tenggat waktu yang jelas, sering kali mengambil peran kepemimpinan. (misalnya, Unggul dalam manajemen proyek dan senang mendelegasikan tugas.)",
+    "Ti": "Lebih menyukai otonomi dan kemandirian, fokus pada tugas individu dan penyelesaian masalah. (misalnya, Menyukai penelitian dan analisis, bekerja sesuai kecepatannya sendiri.)"
+  },
+  {
+    "aspek": "Masukan",
+    "Te": "Menghargai umpan balik yang langsung dan obyektif, dengan fokus pada peningkatan dan hasil. (misalnya, Menghargai kritik membangun yang membantu saya mencapai tujuan saya.)",
+    "Ti": "Lebih menyukai umpan balik yang spesifik dan relevan dengan kerangka pemahaman internal saya. (misalnya, Mungkin sensitif terhadap kritik yang terasa subyektif atau tidak relevan dengan logikanya sendiri.)"
+  },
+  {
+    "aspek": "Argumen",
+    "Te": "Berfokus pada fakta dan logika, bertujuan untuk memenangkan argumen dan menetapkan solusi yang paling efisien.",
+    "Ti": "Menganalisis argumen dari perspektif yang berbeda, mencari konsistensi internal dan logika yang masuk akal."
+  },
+  {
+    "aspek": "Nilai",
+    "Te": "Menghargai efisiensi, produktivitas, dan kebenaran obyektif.",
+    "Ti": "Menghargai akurasi, konsistensi internal, dan pemahaman logis."
+  },
+  {
+    "aspek": "Interaksi sosial",
+    "Te": "Senang terlibat dalam perdebatan dan diskusi yang merangsang, mengambil alih dan mengungkapkan pendapat secara terbuka.",
+    "Ti": "Lebih menyukai kelompok yang lebih kecil atau interaksi satu lawan satu di mana saya dapat mempelajari percakapan lebih dalam."
+  },
+  {
+    "aspek": "Menanggapi kesedihan sahabat",
+    "Fe": "Menawarkan kenyamanan dan dukungan dengan mengungkapkan empati, berbagi pengalaman serupa, dan berusaha menghiburnya.",
+    "Fi": "Menciptakan ruang bagi teman untuk mengekspresikan emosinya tanpa menghakimi, menawarkan dukungan dan pengertian yang tenang."
+  },
+  {
+    "aspek": "Membuat keputusan",
+    "Fe": "Mempertimbangkan dampak keputusan terhadap orang lain dan mengutamakan keharmonisan dan konsensus kelompok.",
+    "Fi": "Membuat keputusan berdasarkan nilai dan prinsip pribadi, meskipun itu berarti bertentangan dengan norma kelompok atau sosial."
+  },
+  {
+    "aspek": "Kompas moral",
+    "Fe": "Berpedoman pada norma dan harapan sosial, menghargai keadilan, empati, dan pertimbangan terhadap orang lain.",
+    "Fi": "Dipandu oleh nilai dan prinsip pribadi, menghargai keaslian, integritas, dan tetap setia pada diri sendiri."
+  },
+  {
+    "aspek": "Menanggapi kritik",
+    "Fe": "Mungkin sensitif terhadap kritik, terutama jika itu terasa seperti penolakan dari kelompok.",
+    "Fi": "Lebih cenderung mengevaluasi kritik berdasarkan kesesuaiannya dengan nilai-nilai pribadinya, menolak masukan yang dirasa tidak relevan atau tidak tulus."
+  },
+  {
+    "aspek": "Ekspresi diri",
+    "Fe": "Mengekspresikan diri melalui interaksi sosial dan menciptakan suasana positif bagi orang lain.",
+    "Fi": "Mengekspresikan diri melalui saluran kreatif, proyek pribadi, dan percakapan mendalam dengan individu tepercaya."
+  },
+  {
+    "aspek": "Pilihan busana",
+    "Fe": "Mungkin berpakaian sesuai dengan norma dan tren sosial, mengingat pengaruh penampilan saya terhadap orang lain.",
+    "Fi": "Berpakaian dengan cara yang mencerminkan nilai dan identitas pribadi saya, meskipun tidak lazim atau tidak konformis."
+  },
+  {
+    "aspek": "Memilih karir",
+    "Fe": "Tertarik pada karir yang melibatkan membantu orang lain dan memberikan dampak positif pada komunitas.",
+    "Fi": "Mencari karier yang selaras dengan nilai-nilai pribadi saya dan memungkinkan saya mengekspresikan individualitas dan kreativitasnya."
+  },
+  {
+    "aspek": "Menetapkan batasan",
+    "Fe": "Mungkin kesulitan menetapkan batasan karena keinginan saya untuk menyenangkan orang lain dan menjaga keharmonisan.",
+    "Fi": "Jelas tentang batasan dan nilai pribadi saya, dan bersedia menegaskannya bila diperlukan."
+  },
+  {
+    "aspek": "Menangani pujian",
+    "Fe": "Menghargai pujian dan pengakuan, terutama dari orang yang dihormati atau dikagumi.",
+    "Fi": "Mungkin merasa tidak nyaman dengan pujian atau perhatian yang berlebihan, menghargai validasi internal dibandingkan pengakuan eksternal."
+  },
+  {
+    "aspek": "Mendefinisikan kesuksesan",
+    "Fe": "Mengukur kesuksesan berdasarkan dampak positifnya terhadap orang lain dan kontribusinya terhadap komunitas.",
+    "Fi": "Mendefinisikan kesuksesan berdasarkan standar internal saya mengenai pertumbuhan pribadi, keaslian, dan hidup sesuai dengan nilai-nilai saya."
+  },
+  {
+    "aspek": "Brainstorming ide",
+    "Ne": "Menghasilkan banyak ide dan kemungkinan, mengeksplorasi berbagai perspektif dan hubungan antara konsep-konsep yang tampaknya tidak berhubungan. (misalnya, Terus-menerus menyarankan berbagai ide kampanye pemasaran, berpindah dari satu kemungkinan ke kemungkinan lainnya.)",
+    "Ni": "Berfokus pada satu visi atau konsep yang menyeluruh, mendalami potensi implikasi dan konsekuensi jangka panjangnya. (misalnya, Mengembangkan strategi komprehensif dengan tujuan akhir yang jelas, dengan mempertimbangkan potensi hambatan dan perkembangan di masa depan.)"
+  },
+  {
+    "aspek": "Penyelesaian masalah",
+    "Ne": "Menjelajahi berbagai solusi dan pendekatan, dengan mempertimbangkan berbagai sudut pandang dan skenario \"bagaimana-jika\". (misalnya, ketika menghadapi suatu tantangan, temukan beberapa solusi alternatif dan nikmati bertukar pikiran dengan orang lain untuk menemukan pendekatan terbaik.)",
+    "Ni": "Secara intuitif memahami inti masalah dan berfokus untuk menemukan solusi tunggal yang paling efektif. (misalnya, Menganalisis masalah dan mengidentifikasi akar permasalahan dengan cepat, lalu mengembangkan solusi yang ditargetkan berdasarkan wawasan saya.)"
+  },
+  {
+    "aspek": "Belajar",
+    "Ne": "Berkembang di lingkungan yang menawarkan beragam kesempatan belajar dan senang menjelajahi berbagai subjek dan perspektif. (misalnya, Mengikuti berbagai kursus, menghadiri lokakarya, dan terlibat dalam diskusi untuk mengumpulkan informasi dari berbagai sumber.)",
+    "Ni": "Lebih suka mendalami bidang minat tertentu, mencari pemahaman komprehensif dan penguasaan materi pelajaran. (misalnya, Berfokus pada satu bidang studi, membaca secara ekstensif dan merefleksikan informasi untuk mengembangkan pemahaman yang mendalam.)"
+  },
+  {
+    "aspek": "Pengambilan keputusan",
+    "Ne": "Mempertimbangkan berbagai opsi dan kemungkinan sebelum mengambil keputusan, tetap terbuka terhadap perubahan arah jika informasi baru muncul. (misalnya, mempertimbangkan pro dan kontra dari berbagai pilihan, mengumpulkan masukan dari orang lain, dan mungkin berubah pikiran seiring saya mempelajari lebih lanjut.)",
+    "Ni": "Membuat keputusan berdasarkan keyakinan batin dan intuisi yang kuat tentang masa depan, sering kali tampak tegas dan teguh. (misalnya, Percayai firasat dan intuisi saya saat membuat pilihan, meskipun saya tidak dapat sepenuhnya menjelaskan alasan di baliknya.)"
+  },
+  {
+    "aspek": "Kreativitas",
+    "Ne": "Senang bereksperimen dengan berbagai ide dan pendekatan, sering kali menghasilkan beragam keluaran kreatif. (misalnya, Memulai beberapa proyek kreatif, menjelajahi berbagai media dan gaya.)",
+    "Ni": "Memfokuskan energi kreatif saya pada visi atau proyek tertentu, mengembangkannya dengan tujuan dan arah yang jelas. (misalnya, Mengerjakan satu proyek kreatif untuk jangka waktu lama, menyempurnakan dan menyempurnakan visi saya.)"
+  },
+  {
+    "aspek": "Humor",
+    "Ne": "Menikmati permainan kata, permainan kata-kata, dan membuat koneksi tak terduga yang mengejutkan dan menyenangkan orang lain.",
+    "Ni": "Mungkin memiliki selera humor yang kering atau sarkastik, sering kali menggunakan ironi dan observasi halus untuk menyampaikan maksudnya."
+  },
+  {
+    "aspek": "Membaca",
+    "Ne": "Senang menjelajahi berbagai genre dan penulis, mencari ide dan perspektif baru.",
+    "Ni": "Lebih suka fokus pada penulis atau genre tertentu yang sesuai dengan minat dan pandangan dunia saya."
+  },
+  {
+    "aspek": "Film/acara TV",
+    "Ne": "Menikmati film dan acara yang menggugah pikiran, terbuka, dan mengeksplorasi berbagai kemungkinan.",
+    "Ni": "Lebih menyukai film dan acara dengan simbolisme kompleks, makna tersembunyi, dan arah yang jelas."
+  },
+  {
+    "aspek": "Percakapan",
+    "Ne": "Cenderung beralih antar topik, menjalin hubungan, dan mengeksplorasi ide-ide berbeda yang muncul.",
+    "Ni": "Berfokus pada satu topik pada satu waktu, menggali lebih dalam implikasi dan makna mendasarnya."
+  },
+  {
+    "aspek": "Perencanaan masa depan",
+    "Ne": "Senang menjelajahi berbagai kemungkinan di masa depan, tetapi mungkin tidak memiliki rencana konkrit.",
+    "Ni": "Memiliki visi yang jelas untuk masa depan dan mengembangkan rencana untuk mencapai tujuannya."
+  },
+  {
+    "aspek": "Mengalami momen saat ini",
+    "Se": "Sepenuhnya membenamkan diri dalam pengalaman saat ini, memperhatikan detail dan melibatkan semua indra saya. (misalnya, Tersesat dalam keindahan matahari terbenam, menikmati warna, suara, dan rasa hangat di kulitnya.)",
+    "Si": "Membandingkan pengalaman saat ini dengan pengalaman masa lalu, mencari keakraban dan kenyamanan dalam rutinitas dan tradisi. (misalnya, Menikmati rasa familiar dari hidangan favorit masa kecil saya, mengingat kenangan indah yang terkait dengannya.)"
+  },
+  {
+    "aspek": "Mempelajari keterampilan baru",
+    "Se": "Belajar paling baik melalui pengalaman langsung dan terlibat secara aktif dengan dunia fisik. (misalnya, Lebih suka mempelajari olahraga baru dengan memainkannya daripada membaca tentangnya.)",
+    "Si": "Lebih suka belajar dengan mengikuti metode dan prosedur yang ditetapkan, menghargai struktur dan petunjuk langkah demi langkah. (misalnya, Mengikuti resep dengan tepat saat mencoba hidangan baru, memastikan saya memahami setiap langkah sebelum melanjutkan.)"
+  },
+  {
+    "aspek": "Organisasi",
+    "Se": "Mungkin memiliki pendekatan organisasi yang lebih fleksibel dan mudah beradaptasi, dengan memprioritaskan fungsionalitas dan efisiensi. (misalnya, Mengatur ruang kerja saya berdasarkan apa yang terbaik untuk proyek saat ini, beradaptasi sesuai kebutuhan.)",
+    "Si": "Lebih menyukai lingkungan yang terstruktur dan terorganisir, sering kali menetapkan rutinitas dan sistem untuk menjaga ketertiban. (misalnya, Memelihara ruang kerja yang ditata dengan cermat, dengan segala sesuatunya berada di tempat yang telah ditentukan.)"
+  },
+  {
+    "aspek": "Lingkungan rumah",
+    "Se": "Menikmati lingkungan rumah yang nyaman dan bergaya, sering kali menggabungkan elemen yang merangsang indra. (misalnya, Hiasi rumah saya dengan warna-warna cerah, tekstur menarik, dan karya seni unik.)",
+    "Si": "Menghargai lingkungan rumah yang akrab dan menenangkan, dengan mengutamakan kenyamanan dan kepraktisan. (misalnya, Menciptakan ruang yang nyaman dan santai dengan furnitur familiar dan barang-barang berharga.)"
+  },
+  {
+    "aspek": "Mode",
+    "Se": "Senang bereksperimen dengan berbagai gaya dan tren, memilih pakaian yang modis dan nyaman.",
+    "Si": "Lebih menyukai gaya klasik dan timeless, memilih pakaian yang dibuat dengan baik dan sesuai dengan acara."
+  },
+  {
+    "aspek": "Bepergian",
+    "Se": "Merangkul petualangan perjalanan spontan dan senang menjelajahi tempat dan budaya baru.",
+    "Si": "Lebih suka merencanakan perjalanannya dengan hati-hati, memilih tujuan yang telah saya teliti dan merasa nyaman."
+  },
+  {
+    "aspek": "Makanan",
+    "Se": "Senang mencoba makanan baru dan eksotis, menghargai rasa dan tekstur yang berbeda.",
+    "Si": "Lebih menyukai makanan familiar dan hidangan tradisional, menghargai kenyamanan dan prediktabilitas."
+  },
+  {
+    "aspek": "Hobi",
+    "Se": "Terlibat dalam hobi aktif dan langsung seperti olahraga, menari, atau aktivitas luar ruangan.",
+    "Si": "Menyukai hobi yang melibatkan rutinitas dan ketelitian, seperti berkebun, memasak, atau membuat kerajinan."
+  },
+  {
+    "aspek": "Musik",
+    "Se": "Menghargai musik dengan irama dan irama yang kuat, menikmati sensasi fisik dari suaranya.",
+    "Si": "Lebih menyukai musik yang membangkitkan emosi dan kenangan tertentu, sering kali mengacu pada melodi dan lirik yang familiar."
+  },
+  {
+    "aspek": "Film/acara TV",
+    "Se": "Menikmati film dan acara yang penuh aksi dan merangsang secara visual.",
+    "Si": "Lebih menyukai film dan acara dengan karakter yang relevan dan alur cerita yang realistis."
+  }
+]

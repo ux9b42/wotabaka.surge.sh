@@ -1,0 +1,27 @@
+* {
+  font-family: monospace;
+}
+
+body {
+  margin: 10vw;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#tes {
+  display: none;
+}
+
+.opt {
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
