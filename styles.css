@@ -22,6 +22,7 @@ footer {
 .opt {
   display: flex;
   margin: 10px;
+  font-size: 100%;
   align-items: center;
   justify-content: flex-start;
 }
