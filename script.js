@@ -9,7 +9,9 @@ let testStarted,
   testEnded,
   currCard,
   data,
-  result = {};
+  result = {
+    Te: 0, Ti: 0, Fe: 0, Fi: 0, Ne: 0, Ni: 0, Se: 0, Si: 0
+};
 
 const main = async () => {
   data = await fetch("data.json").then((r) => r.json());
@@ -121,16 +123,13 @@ function startTest() {
 
 function calcResult() {
   let d = cards.querySelectorAll('input')
-  let cf = {
-    Te: 0, Ti: 0, Fe: 0, Fi: 0, Ne: 0, Ni: 0, Se: 0, Si: 0
-  }
 
   Array.from(d).filter(i => i.checked)
-    .map(n => cf[n.value]++);
+    .map(n => result[n.value]++);
 
-  for (let k in cf) {
+  for (let k in result) {
     let el = $('h2');
-    el.textContent = k + ': ' + cf[k];
+    el.textContent = k + ': ' + result[k];
     hasil.appendChild(el)
   }
 }
